@@ -15,4 +15,5 @@ and then
 python geminon.py your_export_file.xml
 ```
 
-The script produces a set of files that can be served as a gemlog, e.g. gemini://asemic.pollux.casa/gemlog
+The script produces a set of files that can be served as a gemlog, e.g. 
+[gemini://asemic.pollux.casa/gemlog](gemini://asemic.pollux.casa/gemlog)
