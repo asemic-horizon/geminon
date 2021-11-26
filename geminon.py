@@ -2,7 +2,7 @@ import wpparser
 from sys import argv
 from collections import namedtuple
 from markdownify import markdownify
-from md2gemini import md2gemini
+
 import re
 def main(filename):
   data = wpparser.parse(filename)
